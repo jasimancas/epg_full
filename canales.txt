@@ -6,28 +6,9 @@ Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
 Movistar Plus+ HD,Movistar Plus+ HD
 M+ Vamos HD,M+ Vamos HD
-7 TV Región Murcia,7 TV Región Murcia
-À Punt,À Punt
-Aragón TV,Aragón TV
 Canal Extremadura,Canal Extremadura
 Canal Sur HD,Canal Sur HD
-Castilla la Mancha TV,Castilla la Mancha TV
-ETB 1,ETB 1
-IB3 Global,IB3 Global
-La 7,La 7
-Navarra TV,Navarra TV
-Telemadrid,Telemadrid
-TPA,TPA
-TV Canaria,TV Canaria
-TV3,TV3
-TVG - TV Galicia,TVG - TV Galicia
-Canal 33,Canal 33
 Andalucía TV,Andalucía TV
-ETB 2,ETB 2
-ETB 3,ETB 3
-La Ocho TV,La Ocho TV
-La Otra,La Otra
-TVG 2,TVG 2
 M+ Cine HD,M+ Cine HD
 M+ Series HD,M+ Series HD
 M+ Originales HD,M+ Originales HD
@@ -117,42 +98,16 @@ Dreamworks HD,Dreamworks HD
 Disney Channel HD,Disney Channel HD
 Boing,Boing
 Clan,Clan
-SX3 CAT,SX3 CAT
 MTV España,MTV España
 MTV 00s,MTV 00s
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live HD
 Classica HD,Classica HD
 24 Horas,24 Horas
-BBC World News Europe HD,BBC World News Europe HD
-CNN International Europe,CNN International Europe
-EuroNews,EuroNews
-Al Jazeera English HD,Al Jazeera English HD
-FRANCE 24 FRA,FRANCE 24 FRA
-3 24,3 24
-1+1 Internacional,1+1 Internacional
-CNBC Europe HD,CNBC Europe HD
-TV5 Monde Europe HD,TV5 Monde Europe HD
-Bloomberg TV Europe,Bloomberg TV Europe
 El Toro TV,El Toro TV
 Negocios TV,Negocios TV
-CGTN Español,CGTN Español
-Telefe Internacional,Telefe Internacional
-Canal de las Estrellas,Canal de las Estrellas
-TV Chile,TV Chile
-TV Colombia,TV Colombia
-Cubavisión Internacional HD,Cubavisión Internacional HD
-Telesur HD,Telesur HD
-EWTN,EWTN
 Canal Sur Andalucía,Canal Sur Andalucía
-TVGA Europa HD,TVGA Europa HD
 Canal Extremadura Sat,Canal Extremadura Sat
-TV3 CAT,TV3 CAT
-EITB Basque,EITB Basque
-Aragón TV Internacional,Aragón TV Internacional
-Telemadrid Int.,Telemadrid Int.
-Esport 3,Esport 3
-Betevé,Betevé
 Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
 M+ Liga de Campeones 4,M+ Liga de Campeones 4
@@ -162,10 +117,6 @@ M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
 DAZN 3 HD,DAZN 3 HD
 DAZN 4 HD,DAZN 4 HD
-Alquiler 1,Alquiler 1
-Alquiler HD,Alquiler HD
-Canal Fútbol Replay,Canal Fútbol Replay
-M+ LaLiga TV UHD,M+ LaLiga TV UHD
 Cazavisión,Cazavisión
 Iberalia pesca,Iberalia pesca
 Iberalia caza,Iberalia caza

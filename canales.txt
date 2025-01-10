@@ -1,122 +1,115 @@
-La 1 HD,La 1 HD
-La 2,La 2
+24 Horas,24 Horas
 Antena 3 HD,Antena 3 HD
-Cuatro HD,Cuatro HD
-Telecinco HD,Telecinco HD
-La Sexta HD,La Sexta HD
-Movistar Plus+ HD,Movistar Plus+ HD
-M+ Vamos HD,M+ Vamos HD
-Canal Extremadura,Canal Extremadura
-Canal Sur HD,Canal Sur HD
-Andalucía TV,Andalucía TV
-M+ Cine HD,M+ Cine HD
-M+ Series HD,M+ Series HD
-M+ Originales HD,M+ Originales HD
-M+ PopUp,M+ PopUp
-M+ Documentales HD,M+ Documentales HD
-La Resistencia 24H,La Resistencia 24H
-M+ Clásicos HD,M+ Clásicos HD
-M+ Acción HD,M+ Acción HD
-M+ Comedia HD,M+ Comedia HD
-M+ Drama HD,M+ Drama HD
-M+ Indie HD,M+ Indie HD
-M+ Cine Español,M+ Cine Español
-SkyShowtime,SkyShowtime
-TCM HD,TCM HD
-Canal Hollywood HD,Canal Hollywood HD
-XTRM,XTRM
-Sundance TV,Sundance TV
-DARK,DARK
-Somos,Somos
-Paramount Network,Paramount Network
-Be Mad,Be Mad
-STAR Channel HD,STAR Channel HD
-AXN HD,AXN HD
-Warner TV HD,Warner TV HD
-Comedy Central HD,Comedy Central HD
-Calle 13 HD,Calle 13 HD
-Cosmo HD,Cosmo HD
-SyFy HD,SyFy HD
-AMC HD,AMC HD
-AXN Movies HD,AXN Movies HD
-TR3CE,TR3CE
-Energy,Energy
-Factoría de Ficción,Factoría de Ficción
-Neox,Neox
 Atreseries,Atreseries
-M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
-M+ Vamos HD,M+ Vamos HD
-M+ LaLiga TV HD,M+ LaLiga TV HD
-DAZN LaLiga HD,DAZN LaLiga HD
-LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
-M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
-DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
-LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
-M+ Liga de Campeones HD,M+ Liga de Campeones HD
-M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
-M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
-M+ Deportes HD,M+ Deportes HD
-M+ Deportes 2 HD,M+ Deportes 2 HD
-M+ Deportes 3,M+ Deportes 3
-M+ Ellas Vamos HD,M+ Ellas Vamos HD
-M+ Golf HD,M+ Golf HD
-M+ Golf 2 HD,M+ Golf 2 HD
-DAZN F1 HD,DAZN F1 HD
+AXN HD,AXN HD
+AXN Movies HD,AXN Movies HD
+Baby TV,Baby TV
+Be Mad,Be Mad
+Boing,Boing
+BOM Cine,BOM Cine
+Calle 13 HD,Calle 13 HD
+Canal Cocina,Canal Cocina
+Canal Hollywood HD,Canal Hollywood HD
+Caza y Pesca HD,Caza y Pesca HD
+Cazavisión,Cazavisión
+Clan,Clan
+Classica HD,Classica HD
+Comedy Central HD,Comedy Central HD
+Cosmo HD,Cosmo HD
+Cuatro HD,Cuatro HD
 DAZN 1 HD,DAZN 1 HD
 DAZN 2 HD,DAZN 2 HD
+DAZN 3 HD,DAZN 3 HD
+DAZN 4 HD,DAZN 4 HD
+DAZN F1 HD,DAZN F1 HD
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
+DAZN LaLiga HD,DAZN LaLiga HD
+Decasa,Decasa
+Discovery,Discovery
+Disney Channel HD,Disney Channel HD
+Disney Junior,Disney Junior
+Divinity,Divinity
+DKISS,DKISS
+DMAX,DMAX
+Dreamworks HD,Dreamworks HD
+El Garage TV,El Garage TV
+Energy,Energy
+Enfamilia,Enfamilia
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
+Factoría de Ficción,Factoría de Ficción
 GOL PLAY,GOL PLAY
-Teledeporte,Teledeporte
-Real Madrid TV,Real Madrid TV
-Caza y Pesca HD,Caza y Pesca HD
-Iberalia TV,Iberalia TV
-El Garage TV,El Garage TV
-UBEAT,UBEAT
-National Geographic HD,National Geographic HD
-Nat Geo Wild HD,Nat Geo Wild HD
 Historia,Historia
-Discovery,Discovery
-Odisea,Odisea
-AMC Break,AMC Break
-DMAX,DMAX
-AMC Crime,AMC Crime
-BuenViaje,BuenViaje
-Canal Cocina,Canal Cocina
-Decasa,Decasa
-DKISS,DKISS
-Divinity,Divinity
-Nova,Nova
-Mega,Mega
-Ten,Ten
-Enfamilia,Enfamilia
-Baby TV,Baby TV
-Disney Junior,Disney Junior
-Nick JR,Nick JR
-Nickelodeon HD,Nickelodeon HD
-Dreamworks HD,Dreamworks HD
-Disney Channel HD,Disney Channel HD
-Boing,Boing
-Clan,Clan
-MTV España,MTV España
-MTV 00s,MTV 00s
-Mezzo,Mezzo
-Mezzo Live HD,Mezzo Live HD
-Classica HD,Classica HD
-24 Horas,24 Horas
-El Toro TV,El Toro TV
-Negocios TV,Negocios TV
-Canal Sur Andalucía,Canal Sur Andalucía
-Canal Extremadura Sat,Canal Extremadura Sat
-Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
+Iberalia caza,Iberalia caza
+Iberalia pesca,Iberalia pesca
+Iberalia TV,Iberalia TV
+La 1 HD,La 1 HD
+La 2,La 2
+La Resistencia 24H,La Resistencia 24H
+La Sexta HD,La Sexta HD
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
-M+ Liga de Campeones 4,M+ Liga de Campeones 4
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+M+ Acción HD,M+ Acción HD
+M+ Cine Español,M+ Cine Español
+M+ Cine HD,M+ Cine HD
+M+ Clásicos HD,M+ Clásicos HD
+M+ Comedia HD,M+ Comedia HD
+M+ Deportes 2 HD,M+ Deportes 2 HD
+M+ Deportes 3,M+ Deportes 3
 M+ Deportes 4,M+ Deportes 4
 M+ Deportes 5,M+ Deportes 5
 M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
-DAZN 3 HD,DAZN 3 HD
-DAZN 4 HD,DAZN 4 HD
-Cazavisión,Cazavisión
-Iberalia pesca,Iberalia pesca
-Iberalia caza,Iberalia caza
+M+ Deportes HD,M+ Deportes HD
+M+ Documentales HD,M+ Documentales HD
+M+ Drama HD,M+ Drama HD
+M+ Ellas Vamos HD,M+ Ellas Vamos HD
+M+ Golf 2 HD,M+ Golf 2 HD
+M+ Golf HD,M+ Golf HD
+M+ Indie HD,M+ Indie HD
+M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
+M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
+M+ LaLiga TV HD,M+ LaLiga TV HD
+M+ Liga de Campeones 10,M+ Liga de Campeones 10
+M+ Liga de Campeones 11,M+ Liga de Campeones 11
+M+ Liga de Campeones 12,M+ Liga de Campeones 12
+M+ Liga de Campeones 13,M+ Liga de Campeones 13
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Liga de Campeones 5,M+ Liga de Campeones 5
+M+ Liga de Campeones 6,M+ Liga de Campeones 6
+M+ Liga de Campeones 7,M+ Liga de Campeones 7
+M+ Liga de Campeones 8,M+ Liga de Campeones 8
+M+ Liga de Campeones 9,M+ Liga de Campeones 9
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Originales HD,M+ Originales HD
+M+ PopUp,M+ PopUp
+M+ Series HD,M+ Series HD
+M+ Vamos HD,M+ Vamos HD
+Mega,Mega
+Mezzo,Mezzo
+Mezzo Live HD,Mezzo Live HD
+Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
+Movistar Plus+ HD,Movistar Plus+ HD
+MTV 00s,MTV 00s
+MTV España,MTV España
+Nat Geo Wild HD,Nat Geo Wild HD
+National Geographic HD,National Geographic HD
+Neox,Neox
+Nick JR,Nick JR
+Nickelodeon HD,Nickelodeon HD
+Nova,Nova
+Onetoro,Onetoro
+Paramount Network,Paramount Network
+Real Madrid TV,Real Madrid TV
+STAR Channel HD,STAR Channel HD
+SyFy HD,SyFy HD
+TCM HD,TCM HD
+Telecinco HD,Telecinco HD
+Teledeporte,Teledeporte
+Ten,Ten
+TR3CE,TR3CE
+UBEAT,UBEAT
+Warner TV HD,Warner TV HD

@@ -1,4 +1,7 @@
 24 Horas,24 Horas
+AMC Break,AMC Break
+AMC Crime,AMC Crime
+AMC HD,AMC HD
 Antena 3 HD,Antena 3 HD
 Atreseries,Atreseries
 AXN HD,AXN HD
@@ -101,10 +104,13 @@ Neox,Neox
 Nick JR,Nick JR
 Nickelodeon HD,Nickelodeon HD
 Nova,Nova
+Odisea,Odisea
 Onetoro,Onetoro
 Paramount Network,Paramount Network
 Real Madrid TV,Real Madrid TV
+Somos,Somos
 STAR Channel HD,STAR Channel HD
+Sundance TV,Sundance TV
 SyFy HD,SyFy HD
 TCM HD,TCM HD
 Telecinco HD,Telecinco HD
